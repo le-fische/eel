@@ -2,7 +2,7 @@
 
 ## 1. Design Your Team
 
-**Team Name:** EEL (Eli Eli Le)
+**Team Name:** EEL (Eli Emi Le)
 
 **Team Roles & Responsibilities:**
 * **Project Manager (PM):** Eli Hanania
